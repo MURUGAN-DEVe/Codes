@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:09:39</date>
+  <millis>1639471179280</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:09:39</date>
+  <millis>1639471179295</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:09:39</date>
+  <millis>1639471179295</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:10:32</date>
+  <millis>1639471232097</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:10:32</date>
+  <millis>1639471232112</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:10:32</date>
+  <millis>1639471232112</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:12:08</date>
+  <millis>1639471328116</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:12:08</date>
+  <millis>1639471328132</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:12:08</date>
+  <millis>1639471328132</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:15:35</date>
+  <millis>1639471535855</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:15:35</date>
+  <millis>1639471535871</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:15:35</date>
+  <millis>1639471535871</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>
+Dec 14, 2021 2:16:39 PM com.example.logging.Apllication main
+INFO: logger Success
+Dec 14, 2021 2:16:39 PM com.example.logging.Apllication main
+WARNING: Warning
+Dec 14, 2021 2:16:39 PM com.example.logging.Apllication main
+SEVERE: Severe
+Dec 14, 2021 2:17:07 PM com.example.logging.Apllication main
+INFO: logger Success
+Dec 14, 2021 2:17:07 PM com.example.logging.Apllication main
+WARNING: Warning
+Dec 14, 2021 2:17:07 PM com.example.logging.Apllication main
+SEVERE: Severe
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:27:19</date>
+  <millis>1639472239426</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:27:19</date>
+  <millis>1639472239442</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:27:19</date>
+  <millis>1639472239442</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:28:06</date>
+  <millis>1639472286135</millis>
+  <sequence>0</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logger Success</message>
+</record>
+<record>
+  <date>2021-12-14T14:28:06</date>
+  <millis>1639472286244</millis>
+  <sequence>1</sequence>
+  <logger>java.lang.Class</logger>
+  <level>WARNING</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning</message>
+</record>
+<record>
+  <date>2021-12-14T14:28:06</date>
+  <millis>1639472286244</millis>
+  <sequence>2</sequence>
+  <logger>java.lang.Class</logger>
+  <level>SEVERE</level>
+  <class>com.example.logging.Apllication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe</message>
+</record>
+</log>

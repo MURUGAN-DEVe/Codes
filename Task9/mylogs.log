@@ -1,0 +1,137 @@
+Dec 15, 2021 10:06:15 AM com.example.app.Application main
+INFO: 101,Arun,arun@gami.com
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:06:54</date>
+  <millis>1639543014853</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gami.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:18:14</date>
+  <millis>1639543694425</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gami.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:32:03</date>
+  <millis>1639544523194</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:33:36</date>
+  <millis>1639544616130</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:34:55</date>
+  <millis>1639544695403</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:35:57</date>
+  <millis>1639544757513</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:36:27</date>
+  <millis>1639544787941</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:36:38</date>
+  <millis>1639544798583</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:37:00</date>
+  <millis>1639544820928</millis>
+  <sequence>0</sequence>
+  <logger>com.example.app.Application</logger>
+  <level>INFO</level>
+  <class>com.example.app.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>101,Arun,arun@gamil.com</message>
+</record>
+</log>
